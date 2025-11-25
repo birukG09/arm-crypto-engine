@@ -1,5 +1,5 @@
 Addis Ababa City Pathfinding System — README
-Overview
+
 
 This project is a Flask-based pathfinding application that visualizes optimal routes between major locations in Addis Ababa using UCS, DFS, or A* algorithms.
 It integrates:
@@ -70,9 +70,9 @@ d. Road Condition Assessment
 Road quality is encoded as:
 
 Condition	Meaning	Color
-Good	smooth road	🟢 green
-Moderate	average conditions	🟡 yellow
-Poor	rough/bad condition	🔴 red
+Good	smooth road	 green
+Moderate	average conditions	yellow
+Poor	rough/bad condition	 red
 
 If a poor road exists along the route, a warning appears.
 
